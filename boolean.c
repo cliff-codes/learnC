@@ -25,6 +25,6 @@ int main(){
         printf("Hello, %s", name);
     }
 
-
     return 0;
 }
+
